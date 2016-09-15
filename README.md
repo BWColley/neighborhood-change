@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Urban Home Finder 
 ##### Team Neighborhood Change  
 ###### Georgetown University  
@@ -67,3 +68,7 @@ Public Transportation Safety
 
 
 
+=======
+# neighborhood-change
+Neighborhood Change Georgetown Data Science Capstone Project
+>>>>>>> f360299f79afba22d215c2e415452af2f4ed90e9
