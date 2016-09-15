@@ -3,7 +3,7 @@
 ## Team Neighborhood Change  
 Georgetown University  
 School of Continuing Studies  
-Data Science Certificate Capstone Proejct
+Data Science Certificate Capstone Project
 ## Team Members
 Karen Belita - [@kbelita](https://github.com/kbelita)  
 Veronica Helms - [@vevahelms](https://github.com/vevahelms)  
@@ -24,7 +24,7 @@ What features predict MSA selection?
 > ![Neighborhood Change Architecture](https://github.com/kbelita/neighborhood-change-images/raw/master/neighborhood-change-architecture.png)  
 
 ## Summary of Methodology
-**Ingestion**: Download data from data sources using API or download directly.  
+**Ingestion**: Download data from data sources using their API or download directly from their website.  
 **Wrangling**: Clean and organize data in preparation for storage and analysis.  
 **Normalization**: Store and merge clean data in PostgreSQL.  
 **Machine Learning**: Employ unsupervised and supervised machine learning methods to describe data and select predictive model for application.  
