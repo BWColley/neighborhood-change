@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # Urban Home Finder 
-##### Team Neighborhood Change  
-###### Georgetown University  
+#### Team Neighborhood Change  
+#### Georgetown University  
 School of Continuing Studies  
 Data Science Certificate Capstone Proejct
-##### Team Members
+### Team Members
 Karen Belita - [@kbelita](https://github.com/kbelita)  
 Veronica Helms - [@vevahelms](https://github.com/vevahelms)  
 Emily Pugliese - [@emilypugliese](https://github.com/emilypugliese)  
@@ -16,7 +16,7 @@ Hua Zhong - [@hzhongDC](https://github.com/hzhongdc)
 #
 #
 #
-#### Project Overview
+### Project Overview
 **Project Purpose**: Provide a platform to determine a metropolitan area of interest based on user preferences.  
 **Unit of Analysis**: Metropolitan Statistical Areas (MSAs) represent core urban areas consisting of a 50,000 or more population.  As of July 2015, 389 MSAs were delineated, but 300 MSAs were utilized for the purposes of this project.  
 **Research Questions**: 
@@ -30,7 +30,7 @@ What features predict MSA selection?
 #
 #
 #
-#### Summary of Methodology
+### Summary of Methodology
 **Ingestion**: Download data from data sources using API or download directly.  
 **Wrangling**: Clean and organize data in preparation for storage and analysis.  
 **Normalization**: Store and merge clean data in PostgreSQL.  
@@ -43,7 +43,7 @@ What features predict MSA selection?
  #
  #
  #
-#### Data Sources  
+### Data Sources  
 American Community Survey  
 USDA Food Atlas  
 Walkability Index  
@@ -53,7 +53,7 @@ BLS Unemployment Reporting
 Public Transportation Safety
 #
 #
-#### File Organization
+### File Organization
 **ing-wr**: Folder contains ingestion and wrangling python scripts and notebooks.  
 **storage**: Folder contains scripts for creating the database in PostgreSQL, loading data into PostgreSQL and generating csv file with data ready for analysis and machine learning.  
 **ml-application**: Folder contains notebooks for unsupervised and supervised machine learning, application, and visualizations.  
@@ -68,7 +68,4 @@ Public Transportation Safety
 
 
 
-=======
-# neighborhood-change
-Neighborhood Change Georgetown Data Science Capstone Project
->>>>>>> f360299f79afba22d215c2e415452af2f4ed90e9
+
