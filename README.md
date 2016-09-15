@@ -44,7 +44,7 @@ Public Transportation Safety
 
 ## File Organization
 **ing-wr**: Folder contains ingestion and wrangling python scripts and notebooks.  
-**storage**: Folder contains scripts for creating the database in PostgreSQL, loading data into PostgreSQL, and generating csv file with data ready for analysis and machine learning.  
+**storage**: Folder contains scripts for creating the database in PostgreSQL, loading data into PostgreSQL, and generating a csv file with data ready for analysis and machine learning.  
 **ml-application**: Folder contains notebooks for unsupervised and supervised machine learning, application, and visualizations.  
 
 
