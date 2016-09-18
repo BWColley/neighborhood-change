@@ -17,8 +17,8 @@ Hua Zhong - [@hzhongDC](https://github.com/hzhongdc)
 **Project Purpose**: Provide a platform to determine a metropolitan area of interest based on userpreferences.  
 **Unit of Analysis**: Metropolitan Statistical Areas (MSAs) represent core urban areas consisting of a50,000 or more population. As of July 2015, 389 MSAs were delineated. Urban Home Finder analyzes300 MSAs.  
 **Research Questions**:  
-* What characteristics do millennials prioritize when considering metropolitan areas?  
-* What features predict MSA selection?  
+What characteristics do millennials prioritize when considering metropolitan areas?  
+What features predict MSA selection?  
 **Hypothesis**: The most predictive features of a MSA will be rent burden, employment, and crime. 
 > **Project Architecture**
 > ![Neighborhood Change Architecture](https://github.com/kbelita/neighborhood-change-images/raw/master/neighborhood-change-architecture.png)  
